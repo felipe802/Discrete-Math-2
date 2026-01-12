@@ -1,2 +1,2 @@
 # Discrete-Math-2
-Some codes of discrete math from my university subject.
+Some codes of discrete math and graphs.
